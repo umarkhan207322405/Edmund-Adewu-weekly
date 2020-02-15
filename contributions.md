@@ -24,5 +24,5 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
-|     |     |     |      |
+|  3   |  [Food Bazaar](https://www.openstreetmap.org/user/Edmund-Adewu/history)   |  OpenStreetMap Edit   |  Food Bazaar business information was added to Bronx Terminal Market.    |
 |     |     |     |      |
