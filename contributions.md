@@ -23,6 +23,5 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | [link to contribution](https://github.com/stewartweiss/butterfly-network/blob/master/butterfly_edges.c)    | Project code    |   I wrote a program for the repository ....    |
 |  3   |  [Food Bazaar](https://www.openstreetmap.org/changeset/81030270), [Little Caesars](https://www.openstreetmap.org/changeset/81051784)   |  OpenStreetMap Edit   |  Business information for Food Bazaar and Little Caesars was added to the map.   |
 |     |     |     |      |
