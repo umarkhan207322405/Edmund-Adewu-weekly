@@ -23,4 +23,4 @@ following the same syntax.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  3   |  [Food Bazaar](https://www.openstreetmap.org/changeset/81030270), [Little Caesars](https://www.openstreetmap.org/changeset/81051784)   |  OpenStreetMap Edit   |  Business information for Food Bazaar and Little Caesars was added to the map.   |
+|  3   |  [Food Bazaar](https://www.openstreetmap.org/changeset/81030270), [Little Caesars](https://www.openstreetmap.org/changeset/81051784)   |  OpenStreetMap Edit   |  Business information for Food Bazaar and Little Caesars was added to the map.   
