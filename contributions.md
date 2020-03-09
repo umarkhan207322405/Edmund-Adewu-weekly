@@ -24,3 +24,4 @@ following the same syntax.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 |  3   |  [Food Bazaar](https://www.openstreetmap.org/changeset/81030270), [Little Caesars](https://www.openstreetmap.org/changeset/81051784)   |  OpenStreetMap Edit   |  Business information for Food Bazaar and Little Caesars was added to the map.   
+| 6 | [Karma Urban Wear](https://www.openstreetmap.org/changeset/81939337) | OpenStreetMap Edit |Added Karma Urban Wear information to the map.|
